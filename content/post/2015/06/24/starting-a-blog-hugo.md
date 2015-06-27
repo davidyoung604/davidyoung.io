@@ -2,7 +2,7 @@
 date = "2015-06-24T20:06:21-07:00"
 draft = false
 title = "Starting a blog / experimenting with Hugo"
-tags = [ "hugo" ]
+tags = [ "hugo", "technology" ]
 +++
 
 *Cue cliché opening line:* So I've decided to start a blog\.\.\.
