@@ -1,6 +1,6 @@
 +++
 date = "2015-06-26T23:39:10-07:00"
-draft = true
+draft = false
 tags = [ "life", "26 week cleanse", "adulting" ]
 title = "26 Week Cleanse"
 +++
